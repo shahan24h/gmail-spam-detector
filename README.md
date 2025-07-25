@@ -1,9 +1,11 @@
 # gmail-spam-detector
 clean up Gmail inbox using machine learning model safely. 
 
-# Gmail Spam Detector App
+# Gmail Spam Detector scripts
 
 This is a Python-based application that connects to your Gmail account using the Gmail API and reads your latest emails. You can choose days, such as older than1 month/older than 1 year etc. It is intended to serve as a foundation for building a spam detection system using machine learning or rule-based filtering.
+
+#I made it for my gmail, to delete regularly as i have thousands of spams and it filling my free spaces(15Gig)
 
 ##What it will do?
 
