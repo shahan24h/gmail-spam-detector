@@ -17,12 +17,6 @@ This is a Python-based application that connects to your Gmail account using the
 - Google Cloud project with Gmail API enabled
 - OAuth 2.0 credentials (`credentials.json`)
 
-#For linux:
-Install dependencies with:
-
-```bash
-pip install -r requirements.txt
------------------------------------
 
 ##Usage:
 -Download your credentials.json file from Google Cloud Console.
