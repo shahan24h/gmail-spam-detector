@@ -54,6 +54,9 @@ python gmail_script.py
 #Extremely cautious deletion (only at 100% spam confidence) helps avoid false positives.
 #Emails and Text sms spam are different so lot spam email can slip out-at the same time its safe.
 
+##Future IDEA:
+using more extensive spam dataset to detect more spams in gmail.
+
 
 -License
 #MIT License — feel free to use, modify, and distribute with attribution.
